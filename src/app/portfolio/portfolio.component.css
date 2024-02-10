@@ -1,0 +1,43 @@
+.line{
+    width: 90px;
+    height: 4px;
+    background-color: #2C3E50;
+}
+.portfolio-content{
+    position: relative;
+    margin-top: 65px;
+    padding-top: 65px;
+}
+.port-color{
+    color: #2C3E50 !important;
+    font-weight: 700;
+}
+.portfolio-img{
+    position: relative;
+    
+}
+.overlay{
+    position: absolute;
+    width: 89.5%;
+    height: 100%;
+    top: 0px;
+    left: 23px;
+    background-color: rgba(65, 203, 157, 0.833);
+    opacity: 0;
+    transition: all 0.6s;
+    cursor: pointer;
+}
+.portfolio-icon{
+    font-size: 60px;
+    color: white;
+    position: absolute;
+    top: 43%;
+    left: 43%;
+}
+.grid-content:hover .overlay{
+    opacity: 1;
+}
+
+
+
+

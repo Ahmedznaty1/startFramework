@@ -1,0 +1,15 @@
+#about{
+    background-color: #1ABC9C;
+    height: 95vh;
+    
+}
+.about-content{
+
+    position: relative;
+    top: 45%;
+}
+.line{
+    width: 100px;
+    height: 5px;
+    background-color: white;
+}

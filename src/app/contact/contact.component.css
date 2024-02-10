@@ -1,0 +1,41 @@
+#contact{
+    height: 87vh;
+}
+.line{
+    width: 90px;
+    height: 4px;
+    background-color: #2C3E50;
+}
+.contact-content{
+    position: relative;
+    margin-top: 65px;
+    padding-top: 65px;
+}
+.contact-color{
+    color: #2C3E50 !important;
+    font-weight: 700;
+}
+.inputs{
+    border:none;
+    filter: drop-shadow(0px 1px 1px rgba(2, 2, 2, 0.158));
+    border-radius: 10px;
+}
+.inputs:focus{
+    outline: none;
+    filter: drop-shadow(0px 1px 1px rgba(59, 200, 162, 0.675));
+
+}
+.inputs-tags{
+    color: #1ABC9C;
+}
+.userName{
+    color: #1ABC9C;
+    /* background-color: red; */
+    width: 420px;
+    position: relative;
+    top: 0px;
+    transition: all 0.5s;
+    z-index: 0;
+}
+
+

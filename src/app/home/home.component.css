@@ -1,0 +1,19 @@
+#home{
+    background-color: #1ABC9C;
+    height: 85vh;
+}
+.home-content{
+    padding-top: 70px;
+    margin-top: 80px;
+}
+.line{
+    width: 100px;
+    height: 5px;
+    background-color: white;
+}
+.home-content .img-position{
+    position: relative;
+    left: 41%;
+
+    width: 230px ; 
+}

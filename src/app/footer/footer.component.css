@@ -1,0 +1,12 @@
+#footer{
+    background-color: #2C3E50;
+}
+.icons .icon:hover{
+    background-color: #1ABC9C;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.end-footer{
+    background-color: #1A252F;
+}
